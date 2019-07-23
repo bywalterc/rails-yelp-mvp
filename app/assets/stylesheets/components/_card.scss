@@ -1,0 +1,21 @@
+.restaurant-card {
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+  background: white;
+  padding: 30px;
+  border-radius: 4px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+  margin: 20px 0px;
+}
+
+.restaurant-detailed-card {
+  display: flex;
+  justify-content: space-between;
+  width: 700px;
+  background: white;
+  padding: 30px;
+  border-radius: 4px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+  margin: 20px 0px;
+}
